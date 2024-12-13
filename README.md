@@ -17,11 +17,6 @@
 
 - Jira 컨벤션은 [Jira-Convention](./docs/JiraConvention.md)을 참고해주세요.
 
-## 오픈소스 참여하기
-
-- Deployz는 오픈소스이며 모든 개발자들이 프로젝트에 Contribution 하는 것을 환영합니다. Contribution 방법은 [Contribution-Guide](./docs/ContributionGuide.md)를 참고해 주세요.
-- 오픈소스에 참여하기전 커뮤니티 규정인 [Contributor-Covernant](./docs/ContributorCovernant.md)를 확인 후 참여해주세요.
-
 ## 기술 스택
 
 - 프로젝트 기술 스택은 [기술 스택](./docs/TechStack.md)을 참고해주세요.
